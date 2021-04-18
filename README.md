@@ -1,9 +1,10 @@
 # Machine-Learning
-* [MIT Deep Learning](http://introtodeeplearning.com/)の講義に沿って演習を行なったノートブックなどが置いてあります。  
+* [MITで行われたDeep Learningの講座](http://introtodeeplearning.com/)の講義に沿って演習を行なったノートブックなどが置いてあります。  
+
 例えば...
 
   * MNISTを用いた手描き文字の判別
 
-  * 音楽生成(LSTM)
+  * LSTMを用いたクラシック音楽の生成　通常の楽譜をABC記法という方法に沿って書き換えた後、文字をベクトル化しそれを学習します
 
-  * 画像生成(VAEs)
+  * VAEsを用いた画像生成　たくさんの人の顔を学習してモンタージュ画像のようなものを生成します
